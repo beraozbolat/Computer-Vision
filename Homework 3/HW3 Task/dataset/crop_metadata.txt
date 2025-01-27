@@ -1,0 +1,16 @@
+This file contains metadata for cropping images.
+Each line after the header specifies the filename of the image and the coordinates for cropping.
+The coordinates include the x and y positions, as well as the width and height of the crop area.
+
+Fields:
+- filename: The name of the image file.
+- x: The x-coordinate of the top-left corner of the crop area.
+- y: The y-coordinate of the top-left corner of the crop area.
+- width: The width of the crop area.
+- height: The height of the crop area.
+
+--------------------------------------DATA--------------------------------------
+filename     x      y       width     height
+crop1.jpg,   265,   140,    100,      240
+crop2.jpg,   170,   35,     40,       30
+crop3.jpg,   45,    210,    40,       25
