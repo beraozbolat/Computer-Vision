@@ -1,2 +1,2 @@
 # Computer-Vision
-Bilkent University CS484 Computer Vision Course Projects and Homeworks
+Bilkent University Fall 2024-2025 CS484 Computer Vision Course Projects and Homeworks
